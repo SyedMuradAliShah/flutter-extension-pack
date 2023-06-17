@@ -1,12 +1,12 @@
 {
-  "name": "flutter-extension-pack",
-  "displayName": "Flutter Extension Pack",
+  "name": "flutter-essential-extension-pack",
+  "displayName": "Flutter Essential Extension Pack",
   "description": "Everything you need for Flutter development",
   "icon": "./assets/icon.png",
   "version": "0.0.1",
   "publisher": "SyedMuradAliShah",
   "repository": "https://github.com/SyedMuradAliShah/flutter-extension-pack",
-  "author": "Syed Murad Ali Shah <murad@receivemail.org> (http://focdownloads.blogspot.com/)",
+  "author": "Syed Murad Ali Shah <murad@softwareflare.com> (http://focdownloads.blogspot.com/)",
   "license": "(ISC OR GPL-3.0)",
   "engines": {
     "vscode": "^1.79.0"
@@ -14,7 +14,20 @@
   "categories": [
     "Extension Packs"
   ],
+	"keywords": [
+		"flutter",
+		"flutter Programming",
+		"flutter Coding",
+    "flutter Development",
+    "flutter Essential",
+    "flutter Essential Extension Pack",
+    "flutter Extension Pack"
+	],
   "extensionPack": [
+		"everettjf.pubspec-dependency-search", 
+		"bendixma.dart-data-class-generator",
+		"madhukesh040011.flutter-mvvm-architecture-generator", 
+		"felixangelov.bloc",
     "cweijan.vscode-database-client2",
     "kdcro101.favorites",
     "streetsidesoftware.code-spell-checker",
