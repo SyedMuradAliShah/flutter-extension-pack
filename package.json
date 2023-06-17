@@ -1,0 +1,46 @@
+{
+  "name": "flutter-extension-pack",
+  "displayName": "Flutter Extension Pack",
+  "description": "Everything you need for Flutter development",
+  "icon": "./assets/icon.png",
+  "version": "0.0.1",
+  "publisher": "SyedMuradAliShah",
+  "repository": "https://github.com/SyedMuradAliShah/flutter-extension-pack",
+  "author": "Syed Murad Ali Shah <murad@receivemail.org> (http://focdownloads.blogspot.com/)",
+  "license": "(ISC OR GPL-3.0)",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "cweijan.vscode-database-client2",
+    "kdcro101.favorites",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "Postman.postman-for-vscode",
+    "wayou.vscode-todo-highlight",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one",
+    "matei-tm.f-orm-m8-generator",
+    "redhat.vscode-yaml",
+    "Nash.awesome-flutter-snippets",
+    "RodrigoRahman.flutter-dart-utils",
+    "maddog986.autodocblocker",
+    "MarufHassan.flutter-snippets",
+    "aziznal.dart-import-sorter",
+    "Dart-Code.dart-code",
+    "circlecodesolution.ccs-flutter-color",
+    "Dart-Code.flutter",
+    "alexisvt.flutter-snippets",
+    "aksharpatel47.vscode-flutter-helper",
+    "gornivv.vscode-flutter-files",
+    "hirantha.json-to-dart",
+    "DavidAnson.vscode-markdownlint",
+    "naumovs.color-highlight",
+    "marcelovelasquez.flutter-tree",
+    "jeroen-meijer.pubspec-assist",
+    "aaron-bond.better-comments"
+  ]
+}
